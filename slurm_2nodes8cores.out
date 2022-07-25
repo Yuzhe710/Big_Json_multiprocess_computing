@@ -1,0 +1,51 @@
+time running n process: 185.14505338668823
+cell     #Total Tweets     #Number of Languages used     #Top 10 Languages & #Tweets
+23          969                    22                         ('en', 'ht', 'und', 'ja', 'in', 'ro', 'es', 'et', 'it', 'tl')
+22          470                    11                         ('en', 'ja', 'pt', 'it', 'in', 'de', 'es', 'tr', 'nl', 'fr')
+21          85                    4                         ('en', 'tr', 'fr', 'es')
+20          162                    8                         ('en', 'und', 'es', 'et', 'pt', 'th', 'tl', 'ca')
+19          4522                    31                         ('en', 'ja', 'es', 'und', 'in', 'ca', 'pt', 'zh', 'tl', 'de')
+18          642                    13                         ('en', 'zh', 'ja', 'in', 'ro', 'es', 'pt', 'ca', 'tl', 'und')
+17          11                    3                         ('en', 'th', 'in')
+16          33                    2                         ('en', 'es')
+15          97                    7                         ('en', 'in', 'es', 'und', 'zh', 'ro', 'fr')
+14          508                    13                         ('en', 'zh', 'und', 'it', 'ja', 'de', 'tl', 'pt', 'fi', 'es')
+13          23                    3                         ('en', 'ja', 'und')
+12          98                    7                         ('en', 'pt', 'cy', 'und', 'es', 'ca', 'lt')
+11          47                    5                         ('en', 'fr', 'de', 'und', 'ht')
+10          184                    5                         ('en', 'tl', 'da', 'ca', 'ht')
+9          21                    2                         ('en', 'fr')
+24          3                    1                         ('en',)
+[1648965882.819641] [spartan-bm006:1860 :0]      tag_match.c:61   UCX  WARN  unexpected tag-receive descriptor 0x227cf80 was not matched
+Job ID           : 34624561
+Cluster          : spartan
+User/Project     : yixjiang/comp90024
+Nodes            : 2
+Wall-clock time  : 00:03:13 / 00:10:00
+
+Displaying overall resources usage from 2022-04-03 16:01:30 to 2022-04-03 16:04:43:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-bm006 : 
+                CPU# 1    : 93.3   (  83.4 /   9.9 /   0.0 /   6.7 ) 
+                CPU# 2    : 77.4   (  72.3 /   5.2 /   0.0 /  22.6 ) 
+                CPU# 3    : 86.4   (  79.9 /   6.5 /   0.0 /  13.6 ) 
+                CPU# 4    : 73.6   (  68.6 /   5.0 /   0.0 /  26.4 ) 
+
+spartan-bm102 : 
+                CPU# 5    : 90.9   (  86.1 /   4.8 /   0.0 /   9.1 ) 
+                CPU# 6    : 94.9   (  89.7 /   5.2 /   0.0 /   5.1 ) 
+                CPU# 7    : 98.3   (  91.3 /   7.0 /   0.0 /   1.7 ) 
+                CPU# 8    : 98.2   (  91.1 /   7.1 /   0.0 /   1.7 ) 
+
+
+Allocated CPUs            : 8    
+  CPUs with usage <25%    : 0    
+  CPUs with usage <50%    : 0    
+  CPUs with usage >50%    : 8    
+
+Memory used (RAM)         : 0.0%  [4MB of 32000MB]
+
+--------------------------------------------
+

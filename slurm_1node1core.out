@@ -1,0 +1,41 @@
+time running 1 process: 397.6979122161865
+cell     #Total Tweets     #Number of Languages used     #Top 10 Languages & #Tweets
+23          969                    22                         ('en', 'ht', 'und', 'ja', 'in', 'ro', 'es', 'et', 'it', 'tl')
+22          470                    11                         ('en', 'ja', 'pt', 'it', 'in', 'de', 'es', 'tr', 'nl', 'fr')
+21          85                    4                         ('en', 'tr', 'fr', 'es')
+20          162                    8                         ('en', 'und', 'es', 'et', 'pt', 'th', 'tl', 'ca')
+19          4522                    31                         ('en', 'ja', 'es', 'und', 'in', 'ca', 'pt', 'zh', 'tl', 'de')
+18          642                    13                         ('en', 'zh', 'ja', 'in', 'ro', 'es', 'pt', 'ca', 'tl', 'und')
+17          11                    3                         ('en', 'th', 'in')
+16          33                    2                         ('en', 'es')
+15          97                    7                         ('en', 'in', 'es', 'und', 'zh', 'ro', 'fr')
+14          508                    13                         ('en', 'zh', 'und', 'it', 'ja', 'de', 'tl', 'pt', 'fi', 'es')
+13          23                    3                         ('en', 'ja', 'und')
+12          98                    7                         ('en', 'pt', 'cy', 'und', 'es', 'ca', 'lt')
+11          47                    5                         ('en', 'fr', 'de', 'und', 'ht')
+10          184                    5                         ('en', 'tl', 'da', 'ca', 'ht')
+9          21                    2                         ('en', 'fr')
+24          3                    1                         ('en',)
+Job ID           : 34626608
+Cluster          : spartan
+User/Project     : yixjiang/comp90024
+Nodes            : 1
+Wall-clock time  : 00:06:44 / 00:10:00
+
+Displaying overall resources usage from 2022-04-03 19:50:13 to 2022-04-03 19:56:57:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-bm064 : 
+                CPU# 1    : 95.6   (  89.2 /   6.3 /   0.0 /   4.4 ) 
+
+
+Allocated CPUs            : 1    
+  CPUs with usage <25%    : 0    
+  CPUs with usage <50%    : 0    
+  CPUs with usage >50%    : 1    
+
+Memory used (RAM)         : 0.1%  [4MB of 4000MB]
+
+--------------------------------------------
+
